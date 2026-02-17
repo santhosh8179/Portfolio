@@ -6,10 +6,10 @@ function App() {
           <h1>Santhosh Panakanti</h1>
           <p className="tagline">Software Engineer</p>
           <div className="contact">
-            <a href="tel:+919392013203">+91 9392013203</a>
+            <a href="tel:+13143704001">+1 (314) 370-4001</a>
             <span className="sep">·</span>
-            <a href="mailto:santhoshpanakanti@gmail.com">
-              santhoshpanakanti@gmail.com
+            <a href="mailto:panakantisanthoshrao@gmail.com">
+              panakantisanthoshrao@gmail.com
             </a>
             <span className="sep">·</span>
             <a
@@ -258,6 +258,14 @@ function App() {
               document review time by 70% for 200+ beta users with sub-second
               response times.
             </p>
+            <a
+              href="https://github.com/santhosh8179/AI-Powered-Document-Summarization-App"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="project-link"
+            >
+              View on GitHub →
+            </a>
           </div>
 
           <div className="card">
@@ -272,6 +280,14 @@ function App() {
               200+ concurrent users with WebSocket integration for instant
               updates.
             </p>
+            <a
+              href="https://github.com/santhosh8179/Conference-Room-Booking-System"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="project-link"
+            >
+              View on GitHub →
+            </a>
           </div>
         </section>
 
