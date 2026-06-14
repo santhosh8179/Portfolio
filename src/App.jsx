@@ -177,7 +177,7 @@ function App() {
           <div className="card">
             <h3>Associate Software Engineer</h3>
             <div className="meta">
-              Accenture Solutions Pvt. Ltd., Hyderabad, India · Feb 2022 – Mar
+              Accenture Solutions Pvt. Ltd., Hyderabad, India · Feb 2021 – Mar
               2023
             </div>
             <div className="meta sub">
@@ -217,7 +217,7 @@ function App() {
           <div className="card">
             <h3>Full Stack Development Intern</h3>
             <div className="meta">
-              Newton School | Coding Bootcamp · Feb 2021 – Dec 2021
+              Newton School | Coding Bootcamp · Feb 2020 – Dec 2020
             </div>
             <ul>
               <li>
@@ -287,8 +287,8 @@ function App() {
           <div className="card">
             <h3>Master of Science in Cybersecurity Operations</h3>
             <div className="meta">
-              Webster University, St. Louis, MO · GPA: 3.8/4.0 · Expected May
-              2026
+              Webster University, St. Louis, MO · GPA: 3.8/4.0 · 
+              2025 – 2026
             </div>
           </div>
           <div className="card">
