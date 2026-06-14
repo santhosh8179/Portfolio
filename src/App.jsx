@@ -35,16 +35,7 @@ function App() {
         <section className="section">
           <h2 className="section-title">Professional Summary</h2>
           <p className="summary">
-            Full Stack Developer with 3+ years of experience designing and
-            developing enterprise-scale applications for Fortune 500 companies
-            in financial services and e-commerce. Expertise in building
-            microservices architecture using Java, Spring Boot, Angular, and
-            React with hands-on experience in cloud platforms (AWS, Azure),
-            CI/CD pipelines, and event-driven systems using Apache Kafka. Proven
-            track record of improving application performance by 60%, reducing
-            deployment time by 70%, and mentoring development teams. Proficient
-            in Agile methodologies, test-driven development, and delivering
-            high-quality, scalable solutions.
+           Software Engineer with around 5 years of experience designing and developing enterprise-scale applications for Fortune 500 companies in financial services and e-commerce. Expertise in building microservices architecture using Java, Spring Boot, Angular, and React with hands-on experience in cloud platforms (AWS, Azure), CI/CD pipelines, and event-driven systems using Apache Kafka. Proven track record of improving application performance by 60%, reducing deployment time by 70%, and mentoring development teams. Proficient in Agile methodologies, test-driven development, and delivering high-quality, scalable solutions. 
           </p>
         </section>
 
